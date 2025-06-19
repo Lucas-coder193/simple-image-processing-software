@@ -25,15 +25,9 @@ It's a simple project made in college. Develop an Image Processing Software Usin
 
   （2）功能逻辑层
   主要采用插件式模块设计，主要模块有：
-  模块名称	             功能描述	          关键技术
-  colorTransform.m	  颜色空间转换	  手动实现RGB/HSV转换算法
-  convolution.m	      卷积滤波处理	  手动实现卷积运算
-  enhanceImage.m	    综合图像增强	  小波去噪+S曲线对比度增强
-  histeqCustom.m	    直方图均衡化	  自适应gamma校正+直方图裁剪
-  filterModule.m	    滤镜效果应用	  预定义卷积核应用
-  segmentModule.m	    图像分割	      大津法/Canny/分水岭算法
-  recognizeModule.m	  目标识别	      霍夫圆变换+颜色空间分析
-  scaleImageCustom.m	图像缩放	      动态尺寸计算+抗锯齿处理
+
+  ![image](https://github.com/user-attachments/assets/c75c0aa3-9a5b-417a-8f28-d4498ad03a61)
+
   
   （3）数据访问层
   fileOperations.m 统一文件管理器：
