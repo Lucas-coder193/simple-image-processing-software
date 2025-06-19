@@ -38,4 +38,5 @@ It's a simple project made in college. Develop an Image Processing Software Usin
   支持多格式I/O（jpg/png/bmp/tif）
   可以自动类型转换（double↔uint8）
   有异常安全处理机制
-  ![Uploading image.png…]()
+  <img width="415" alt="image" src="https://github.com/user-attachments/assets/b5d0acb0-16dd-4e5f-956f-fa5c883d1022" />
+
