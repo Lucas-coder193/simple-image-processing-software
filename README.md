@@ -7,6 +7,7 @@ It's a simple project made in college. Develop an Image Processing Software Usin
   ​  业务逻辑层：核心图像处理算法
   ​  数据访问层：图像I/O操作
   ​  基础设施层：底层计算支持
+  
   <img width="415" alt="image" src="https://github.com/user-attachments/assets/4772ffc2-d55d-4969-92bc-4ede21612fdb" />
 
 2、详细架构设计
@@ -19,6 +20,7 @@ It's a simple project made in college. Develop an Image Processing Software Usin
   双视图设计（原图/处理结果）
   功能按钮分组布局（基础/高级操作）
   采用MATLAB App Designer组件体系
+  
   <img width="415" alt="image" src="https://github.com/user-attachments/assets/d976798c-7c69-4564-ab75-7b8ab573908b" />
 
   （2）功能逻辑层
@@ -38,5 +40,6 @@ It's a simple project made in college. Develop an Image Processing Software Usin
   支持多格式I/O（jpg/png/bmp/tif）
   可以自动类型转换（double↔uint8）
   有异常安全处理机制
+  
   <img width="415" alt="image" src="https://github.com/user-attachments/assets/b5d0acb0-16dd-4e5f-956f-fa5c883d1022" />
 
